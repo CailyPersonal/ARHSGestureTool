@@ -1,0 +1,41 @@
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\bin\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\bin\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\bin\Debug\en\GestureTool.resources.dll
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.GestureTool.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.Properties.Resources.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.GestureTool.en.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\en\GestureTool.resources.dll
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool\GestureTool\obj\x86\Debug\GestureTool.SubForm.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\bin\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\bin\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\bin\Debug\en\GestureTool.resources.dll
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.GestureTool.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.Properties.Resources.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.SubForm.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GestureTool.GestureTool.en.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.0.6.3\GestureTool\obj\x86\Debug\en\GestureTool.resources.dll
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\bin\Debug\GestureTool.exe
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\bin\Debug\GestureTool.pdb
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\bin\Debug\en\GestureTool.resources.dll
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.GestureTool.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.Properties.Resources.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.SubForm.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.GestureTool.en.resources
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Caily\Desktop\GestureTool\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\en\GestureTool.resources.dll
+D:\源代码备份\基于C#\2015.6.3_9轴姿态仪校准用_串口应用\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.exe
+D:\源代码备份\基于C#\2015.6.3_9轴姿态仪校准用_串口应用\GestureTool v1.1.6.23\GestureTool\obj\x86\Debug\GestureTool.pdb
